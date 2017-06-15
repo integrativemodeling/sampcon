@@ -1,0 +1,1 @@
+sampling_precision 12.76 cluster_precision 15.00
