@@ -1,0 +1,5 @@
+title: Sampling exhaustiveness benchmark
+tags: [benchmark, analysis]
+test:
+    runtime: 24h
+    build: release
