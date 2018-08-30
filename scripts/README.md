@@ -43,5 +43,6 @@ License as published by the Free Software Foundation; either
 version 2 of the License, or (at your option) any later version.
 
 _Publications_:
-- S. Viswanath, I.E.Chemmama, P. Cimmermancic and A. Sali, Validating Exhaustiveness of Stochastic Sampling for Integrative Modeling of Macromolecular Structures, submitted.
+- S. Viswanath, I.E.Chemmama, P. Cimmermancic and A. Sali, Assessing Exhaustiveness of Stochastic Sampling for Integrative Modeling of Macromolecular Structures, Biophysical Journal, 13, 2344-2353, 2017.
+
 
