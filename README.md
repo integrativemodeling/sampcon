@@ -1,4 +1,4 @@
-This repository contains the scripts for the sampling exhaustiveness tests along with the inputs for the benchmark cases and results on the benchmarks.  
+This repository contains all the scripts for the sampling exhaustiveness tests along with the inputs for the benchmark cases and results on the benchmarks.  
 
 The inputs folder contains inputs for sampling for the benchmark cases,such as PDB and crosslink files.
 
