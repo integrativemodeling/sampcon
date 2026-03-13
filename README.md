@@ -6,10 +6,9 @@ The scripts folder contains scripts for sampling IMP models and scoring ZDOCK mo
 
 The results folder contains the models sampled by IMP, and the resulting clusters of good-scoring models, along with the top models from ZDOCK and the outputs of the sampling exhaustiveness protocol. 
 
-# Note
 Please refer to the README.md file in each directory for specific details.
 
-# Info
+## Information
 
 _Author(s)_: Shruthi Viswanath, Ilan E. Chemmama 
 
